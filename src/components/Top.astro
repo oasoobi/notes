@@ -14,6 +14,7 @@
 <style>
   a {
     text-decoration: none;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
     background: rgba(255, 255, 255, 0.72);
     backdrop-filter: blur(10.9px);
     -webkit-backdrop-filter: blur(10.9px);
@@ -27,12 +28,12 @@
     border-radius: 100%;
     position: fixed;
     right: 20px;
-    bottom: 20px;
     bottom: max(20px, env(safe-area-inset-bottom));
     padding-bottom: env(safe-area-inset-bottom);
     z-index: 1000;
+    transition: all 0.2s ease;
   }
   a:hover {
-    color: rgb(var(--accent));
+    background: rgba(0, 132, 255, 0.137);
   }
 </style>
