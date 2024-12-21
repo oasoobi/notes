@@ -4,6 +4,11 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 
+html {
+	scroll-behavior: smooth;
+	overflow-x: hidden;
+}
+
 :root {
 	--accent: #2337ff;
 	--accent-dark: #000d8a;
