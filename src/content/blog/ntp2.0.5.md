@@ -5,7 +5,7 @@ pubDate: 'Dec 21 2024'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
-こんにちは。私です。
+こんにちは。
 
 次のNoteBlock+のアップデートで実装する内容を紹介します。
 
