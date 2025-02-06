@@ -1,7 +1,7 @@
 ---
 title: 'NoteBlockPlusの進捗'
 description: 'NoteBlockPlusの進捗です。'
-pubDate: 'Dec 21 2024'
+pubDate: '2025 2/6'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
